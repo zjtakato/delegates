@@ -18,6 +18,13 @@
       "import": "./index.mjs"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zjtakato/delegates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zjtakato/delegates/issues"
+  },
   "author": "zjtakato <zjtakato@gmail.com>",
   "license": "ISC"
 }
