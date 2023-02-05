@@ -1,0 +1,23 @@
+{
+  "name": "@zjtakato/delegates",
+  "version": "1.0.0",
+  "description": "Object.defineProperty版的对象代理工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "@zjtakato",
+    "zjtakato",
+    "delegates",
+    "Object.defineProperty"
+  ],
+  "exports": {
+    ".": {
+      "require": "./index.js",
+      "import": "./index.mjs"
+    }
+  },
+  "author": "zjtakato <zjtakato@gmail.com>",
+  "license": "ISC"
+}
